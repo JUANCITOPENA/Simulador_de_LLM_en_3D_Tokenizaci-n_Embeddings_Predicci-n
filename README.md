@@ -1,0 +1,2 @@
+# Simulador_de_LLM_en_3D_Tokenizaci-n_Embeddings_Predicci-n
+Simulador_de_LLM_en_3D_Tokenización_Embeddings_Predicción
